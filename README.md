@@ -46,6 +46,3 @@ bash
 Copy code
 git push origin feature/your-feature
 Open a pull request, describing your changes in detail.
-
-License
-This project is licensed under the MIT License. Feel free to modify and use the code according to your needs.
