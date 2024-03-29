@@ -46,3 +46,5 @@ bash
 Copy code
 git push origin feature/your-feature
 Open a pull request, describing your changes in detail.
+![image](https://github.com/premprakashIT/Parallax-Effect-Website/assets/123723114/70e058db-1140-4563-85b2-05d0e88c345a)
+
